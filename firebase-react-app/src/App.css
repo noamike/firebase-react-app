@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #333945;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -73,7 +73,7 @@ input {
 
 .btn {
   padding: 10px 1rem;
-  background: #334;
+  background: rgb(108, 108, 128);
   color: white;
   border-radius: 5px;
   cursor: pointer;
